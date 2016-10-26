@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (JuceDemoPlugin.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PluginEditor.cpp
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(12): warning C4100: 'x': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(16): warning C4100: 'x': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(401): warning C4100: 'step': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(401): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(401): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(401): warning C4100: 'init': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(406): warning C4100: 'step': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(406): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(406): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(406): warning C4100: 'init': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(411): warning C4100: 'step': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(411): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(411): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(411): warning C4100: 'init': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(418): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(418): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(423): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(423): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(430): warning C4100: 'val': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(430): warning C4100: 'key': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(430): warning C4100: 'zone': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(609): warning C4100: 'date_usec': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\faustreverb.h(811): warning C4100: 'samplingFreq': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\plugineditor.cpp(195): warning C4100: 'pos': unreferenced formal parameter
+c:\users\cheng\desktop\hw3\demo\source\plugineditor.cpp(166): warning C4505: 'timeToTimecodeString': unreferenced local function has been removed
+c:\users\cheng\desktop\hw3\demo\source\plugineditor.cpp(179): warning C4505: 'quarterNotePositionToBarsBeatsString': unreferenced local function has been removed
+  JucePlugin.vcxproj -> C:\Users\Cheng\Desktop\hw3\demo\Builds\VisualStudio2015\Debug\JuceDemoPlugin.dll
+  JucePlugin.vcxproj -> Debug\\JuceDemoPlugin.pdb (Full PDB)
+          1 file(s) copied.
